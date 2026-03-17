@@ -15,38 +15,38 @@
 
 ### 🚀 Backend
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=ED8B00"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=spring&logoColor=6DB33F"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JPA-gray?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/REST_API-444444?style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-2E7D32?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-4E342E?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-5D4037?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-263238?style=for-the-badge"/>
 </p>
 
 ### 🗄 Database & Cache
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/SQLServer-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D"/></a>
+  <img src="https://img.shields.io/badge/SQLServer-8B0000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1B4F72?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-B71C1C?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### 🔐 Security
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/JWT-444444?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SpringSecurity-black?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/></a>
+  <img src="https://img.shields.io/badge/JWT-37474F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-1B5E20?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & DevOps
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37"/></a>
+  <img src="https://img.shields.io/badge/Git-8B2500?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0D47A1?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-BF360C?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend (Basic)
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
+  <img src="https://img.shields.io/badge/React-01579B?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-B71C1C?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-0D47A1?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
