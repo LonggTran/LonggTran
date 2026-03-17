@@ -4,10 +4,10 @@
 ---
 
 ## 🧠 About Me
-- 🎯 Backend Developer focused on Java ecosystem
-- 💻 Building RESTful APIs with Spring Boot
-- ⚡ Interested in scalable systems & performance optimization
-- 📚 Currently learning system design and distributed systems
+- 🎯 Backend Developer focused on Java (Spring Boot)
+- 💻 Experienced in building REST APIs with authentication and database systems
+- 🔐 Interested in secure, scalable backend architectures
+- 🏦 Passionate about building reliable systems for financial and banking domains
 
 ---
 
@@ -15,44 +15,45 @@
 
 ### 🚀 Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-black?style=for-the-badge"/>
+  <a href="#"><img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=ED8B00"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=spring&logoColor=6DB33F"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JPA-gray?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/REST_API-444444?style=for-the-badge"/></a>
 </p>
 
 ### 🗄 Database & Cache
 <p>
-  <img src="https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis"/>
+  <a href="#"><img src="https://img.shields.io/badge/SQLServer-black?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=DC382D"/></a>
 </p>
 
 ### 🔐 Security
 <p>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity"/>
+  <a href="#"><img src="https://img.shields.io/badge/JWT-444444?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SpringSecurity-black?style=for-the-badge&logo=springsecurity&logoColor=6DB33F"/></a>
 </p>
 
 ### ⚙️ Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+  <a href="#"><img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37"/></a>
 </p>
 
 ### 🌐 Frontend (Basic)
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <a href="#"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🔗 Task Management System
+### 🔗 [Task Management System]([https://github.com/Longg/task-management-system](https://github.com/LonggTran/Project-task-management-system))
 - REST API for managing tasks, projects, and users
 - Authentication with JWT & role-based access
 - Tech: Spring Boot, PostgreSQL, Redis
