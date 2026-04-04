@@ -1,15 +1,5 @@
-<h1 align="center">Hi 👋, I'm Long</h1>
+<h1 align="center">Hi, I'm Long</h1>
 <h3 align="center">Java Backend Developer</h3>
-
----
-
-## 🧠 About Me
-- 🎯 Backend Developer focused on Java (Spring Boot)
-- 💻 Experienced in building REST APIs with authentication and database systems
-- 🔐 Interested in secure, scalable backend architectures
-- 🏦 Passionate about building reliable systems for financial and banking domains
-
----
 
 ## 🛠 Tech Stack
 
@@ -53,22 +43,22 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [Task Management System]([https://github.com/Longg/task-management-system](https://github.com/LonggTran/Project-task-management-system))
-- REST API for managing tasks, projects, and users
-- Authentication with JWT & role-based access
-- Tech: Spring Boot, PostgreSQL, Redis
-
----
-
-### 🔗 Authentication Service
-- Secure login system using JWT
-- Role & permission management
-- Tech: Spring Boot, Redis
-
----
-
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=LonggTran&show_icons=true)
+### 🔗 [Project Task Management System (Web Application)]
+- Technologies used: Java, Spring Boot, Spring Security, PostgreSQL, Redis, WebSocket, RESTful API
+- Responsibilities:
+    Designed database schema for system modules
+    Built more than 30 APIs for the system
+    Implemented authentication and authorization using JWT (Role-based Authorization)
+    Used Redis to store token (blacklist) to control logout and enhance security
+    Integrated Redis caching for frequently accessed data to reduce database load
+    Developed OTP email feature for user registration
+    Applied WebSocket for real-time notifications
+    Organized code following layered architecture (Controller - Service - Repository)
+    Handled input validation and global exception handling
+- Testing & Performance:
+    Conducted API Testing and Performance Testing (Load Testing) using Postman
+    Simulated 200+ concurrent requests to evaluate system performance across 10+ APIs
+    Achieved average response time of ~30–45ms/request after applying Redis caching
 
 ---
 
