@@ -46,19 +46,19 @@
 ### 🔗 [Project Task Management System (Web Application)]
 - Technologies used: Java, Spring Boot, Spring Security, PostgreSQL, Redis, WebSocket, RESTful API
 - Responsibilities:
-    Designed database schema for system modules
-    Built more than 30 APIs for the system
-    Implemented authentication and authorization using JWT (Role-based Authorization)
-    Used Redis to store token (blacklist) to control logout and enhance security
-    Integrated Redis caching for frequently accessed data to reduce database load
-    Developed OTP email feature for user registration
-    Applied WebSocket for real-time notifications
-    Organized code following layered architecture (Controller - Service - Repository)
-    Handled input validation and global exception handling
+    + Designed database schema for system modules
+    + Built more than 30 APIs for the system
+    + Implemented authentication and authorization using JWT (Role-based Authorization)
+    + Used Redis to store token (blacklist) to control logout and enhance security
+    + Integrated Redis caching for frequently accessed data to reduce database load
+    + Developed OTP email feature for user registration
+    + Applied WebSocket for real-time notifications
+    + Organized code following layered architecture (Controller - Service - Repository)
+    + Handled input validation and global exception handling
 - Testing & Performance:
-    Conducted API Testing and Performance Testing (Load Testing) using Postman
-    Simulated 200+ concurrent requests to evaluate system performance across 10+ APIs
-    Achieved average response time of ~30–45ms/request after applying Redis caching
+    + Conducted API Testing and Performance Testing (Load Testing) using Postman
+    + Simulated 200+ concurrent requests to evaluate system performance across 10+ APIs
+    + Achieved average response time of ~30–45ms/request after applying Redis caching
 
 ---
 
