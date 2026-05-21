@@ -3,7 +3,7 @@
 <h3 align="center">Java Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+RESTful+API+%7C+Redis+%7C+Security;AWS+%7C+Docker+%7C+Kubernetes+%7C+DevOps+Basic;Building+clean%2C+secure%2C+and+scalable+backend+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Backend+Software+Engineer;Java+Backend+Developer;Spring+Boot+%7C+RESTful+API+%7C+Redis+%7C+Security;AWS+%7C+Docker+%7C+Kubernetes+%7C+DevOps+Basic;Building+clean%2C+secure%2C+and+scalable+backend+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -106,6 +106,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LonggTran&label=Profile%20Views&color=29B6F6&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-5%2B-FF9800?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
