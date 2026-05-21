@@ -10,7 +10,7 @@
   <a href="mailto:tranlegialong.se@email.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/longgtran2k4">
+  <a href="https://github.com/LonggTran">
     <img src="https://img.shields.io/badge/GitHub-longgtran2k4-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
@@ -121,11 +121,11 @@
     <img src="https://img.shields.io/badge/Gmail-tranlegialong.se@email.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/longgtran2k4">
+  <a href="https://github.com/LonggTran">
     <img src="https://img.shields.io/badge/GitHub-longgtran2k4-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/longtran-se/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
