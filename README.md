@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/LonggTran">
-    <img src="https://img.shields.io/badge/GitHub-longgtran2k4-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-LonggTran-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <b>Hi, I'm Long — a Java Backend Developer from Vietnam.</b>
+  <b>Hi, I'm Long - Java Backend Developer.</b>
 </p>
 
 <p align="left">
@@ -85,18 +85,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=longgtran2k4&show_icons=true&count_private=true&bg_color=ffffff&title_color=2196F3&text_color=333333&icon_color=FF9800&border_color=E3F2FD&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api?username=LonggTran&show_icons=true&count_private=true&bg_color=ffffff&title_color=2196F3&text_color=333333&icon_color=FF9800&border_color=E3F2FD&border_radius=12" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=longgtran2k4&layout=compact&bg_color=ffffff&title_color=2196F3&text_color=333333&border_color=E3F2FD&border_radius=12" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LonggTran&layout=compact&bg_color=ffffff&title_color=2196F3&text_color=333333&border_color=E3F2FD&border_radius=12" 
     height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=longgtran2k4&background=FFFFFF&border=E3F2FD&stroke=2196F3&ring=FF9800&fire=FF5722&currStreakNum=333333&sideNums=333333&currStreakLabel=2196F3&sideLabels=2196F3&dates=666666&border_radius=12" 
+    src="https://streak-stats.demolab.com?user=LonggTran&background=FFFFFF&border=E3F2FD&stroke=2196F3&ring=FF9800&fire=FF5722&currStreakNum=333333&sideNums=333333&currStreakLabel=2196F3&sideLabels=2196F3&dates=666666&border_radius=12" 
   />
 </p>
 
@@ -105,7 +105,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=longgtran2k4&label=Profile%20Views&color=29B6F6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=LonggTran&label=Profile%20Views&color=29B6F6&style=for-the-badge"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@
   </a>
 
   <a href="https://github.com/LonggTran">
-    <img src="https://img.shields.io/badge/GitHub-longgtran2k4-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-LonggTran-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/longtran-se/">
